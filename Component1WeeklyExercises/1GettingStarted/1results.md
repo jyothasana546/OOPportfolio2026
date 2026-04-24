@@ -27,7 +27,8 @@ public class Helloworld {
 
 }
 
-output:<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/a15959e7-4cdd-409e-817c-7f1214b27bf9" />
+output:<img width="371" height="135" alt="Screenshot 2026-04-24 100947" src="https://github.com/user-attachments/assets/439f8471-7e70-40f9-936b-8780ae96f2db" />
+
 
 (2 marks)
 ---
