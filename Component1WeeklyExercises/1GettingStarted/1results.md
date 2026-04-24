@@ -2,11 +2,11 @@
 11 marks  
 **to be committed to GitHub by 9th February**
 
-1 Hello World        -- todo  
-2 Test               -- todo  
-3 Personal Details   -- todo  
-4 Diamonds           -- todo  
-5 Questions         -- todo  
+1 Hello World        -- complete
+2 Test               -- complete
+3 Personal Details   -- complete 
+4 Diamonds           -- complete
+5 Questions         -- complete
 Please replace **todo** with **complete**  
 Record your progress on the OOP Form on README.md.  
 ---
