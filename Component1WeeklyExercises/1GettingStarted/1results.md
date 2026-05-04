@@ -30,7 +30,13 @@ public class Helloworld {
 output:<img width="371" height="135" alt="Screenshot 2026-04-24 100947" src="https://github.com/user-attachments/assets/439f8471-7e70-40f9-936b-8780ae96f2db" />
 
 
-(2 marks)
+
+
+
+
+
+
+2 -\
 ---package Week1;
 
 public class Test {
@@ -45,13 +51,6 @@ output: <img width="807" height="231" alt="image" src="https://github.com/user-a
 <img width="1136" height="256" alt="image" src="https://github.com/user-attachments/assets/3eff85cd-f2d7-41e3-a41e-321d8b3e8c54" />
 <img width="1042" height="226" alt="image" src="https://github.com/user-attachments/assets/347d9b07-3c8a-491c-aa40-216cec67c388" />
 <img width="1051" height="229" alt="image" src="https://github.com/user-attachments/assets/5b26ae08-b433-4793-b5b4-a18f1e714060" />
-
-
-
-
-
-
-2 -\
 
 
 ---
