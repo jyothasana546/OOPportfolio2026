@@ -57,12 +57,47 @@ output: <img width="807" height="231" alt="image" src="https://github.com/user-a
 
 
 3 -\
-(2 marks)
+package Week1;
+
+public class Diamondshape {
+
+	public static void main(String[] args) {
+		
+		System.out.println("   *");
+		System.out.println("  ***");
+		System.out.println(" *****");
+		System.out.println("*******");
+		System.out.println(" *****");
+		System.out.println("  ***");
+		System.out.println("   *");
+
+	}
+}
+output : <img width="1017" height="221" alt="image" src="https://github.com/user-attachments/assets/76a4b089-e4ce-4f2e-846d-c73855ae75b8" />
+
 
 ---
 
 4 -\
-(2 marks)
+package Week1;
+
+public class Personaldetails {
+
+	public static void main(String[] args) {
+		System.out.println("Name: Jyothasana Sharma");
+		System.out.println("Address: Kathmandu");
+		System.out.println("Age: 20");
+		System.out.println("Gender: Female");
+		System.out.println("Phone: 9808467825");
+		System.out.println("Email: jyothasana05@gmail.com");
+		System.out.println("College: The British College");
+		System.out.println("Course: BSc.(Hons) Computing");
+
+	}
+
+}
+output: <img width="1034" height="287" alt="image" src="https://github.com/user-attachments/assets/54b64ca1-6c62-436b-b107-022c4abcfc29" />
+
 
 ---
 
