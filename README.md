@@ -1,7 +1,7 @@
 
 # OOP Portfolio
 ## Your Name Jyothasana Sharma
-### Your Group FSC(Duncan0
+### Your Group FSC(Duncan)
 ### Your Tutor Resham pun
 
 
