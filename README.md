@@ -1,8 +1,8 @@
 
 # OOP Portfolio
-## Your Name
-### Your Group
-### Your Tutor
+## Your Name Jyothasana Sharma
+### Your Group FSC(Duncan0
+### Your Tutor Resham pun
 
 
 Results for each exercise must be documented in results.md is the relevant directory,
